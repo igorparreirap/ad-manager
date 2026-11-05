@@ -4,6 +4,10 @@ Ferramenta desktop para Windows que consulta e desbloqueia contas de usuários d
 
 [English summary below](#english-summary)
 
+![Ilustração da tela do AD Manager com dados fictícios](docs/preview.png)
+
+<sub>Ilustração com dados fictícios: nenhuma informação real de usuários ou da organização onde a ferramenta foi usada.</sub>
+
 ## O problema
 
 No service desk, desbloquear a conta de um usuário era uma das solicitações mais frequentes, e o caminho padrão era lento: abrir o console do Active Directory, localizar o usuário pelo nome certo, conferir o estado da conta e da senha e só então desbloquear. Com fila de chamados, isso se repetia muitas vezes por dia para toda a equipe.
